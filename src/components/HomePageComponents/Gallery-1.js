@@ -53,7 +53,7 @@ const GalleryWrapper = styled.div`
   }
   .info {
     position: absolute;
-    top: 0;
+    top: 1;
     left: 0;
     background: ${styles.colors.mainYellow};
     padding: 0.1rem 0.3rem;
